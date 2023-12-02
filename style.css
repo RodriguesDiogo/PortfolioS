@@ -1,0 +1,77 @@
+body{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: auto;
+}
+#name{
+    text-align: center;
+    grid-column: 1;
+}
+
+#Portefoliovalue{
+    text-align: center;
+    grid-column: 1;
+}
+
+#sol{
+    grid-column: 1;
+    align-items: center;
+    margin-left: 20px;
+}
+#solanaAmount{
+    grid-column: 1;
+    align-items: center;
+    margin-left: 20px;
+}
+
+#solanaPrice{
+    grid-column: 1;
+    align-items: center;
+    margin-left: 20px;
+}
+
+#solanaInvested{
+    grid-column: 1;
+    align-items: center;
+    margin-left: 20px;
+}
+
+#solanaCurrentValue{
+    grid-column: 1;
+    align-items: center;
+    margin-left: 20px;
+}
+
+#vet{
+    grid-column: 1;
+    margin-left: 20px;
+    align-items: center;
+    margin-left: 20px;
+}
+#vetAmount{
+    grid-column: 1;
+    align-items: center;
+    margin-left: 20px;
+}
+
+#vetPrice{
+    grid-column: 1;
+    align-items: center;
+    margin-left: 20px;
+}
+
+#vetInvested{
+    grid-column: 1;
+    align-items: center;
+    margin-left: 20px;
+}
+
+#vetCurrentValue{
+    grid-column: 1;
+    align-items: center;
+    margin-left: 20px;
+}
